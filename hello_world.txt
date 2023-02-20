@@ -1,0 +1,2 @@
+Test file for new repo!
+Added line#1 using nano editor, line#2 (current) has been addd using code.
